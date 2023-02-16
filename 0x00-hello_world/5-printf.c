@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints out a string to stout
- * return : 0 if sucess
+ * main - entry point
+ *
+ * Return : Always 1 on sucess
  */
 int main(void)
 {

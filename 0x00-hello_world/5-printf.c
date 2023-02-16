@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Prints out a string to standard output
- * Return : 0 if execute sucessful
+ * main - prints out a string to stout
+ * Return : 0 if sucess
  */
 int main(void)
 {

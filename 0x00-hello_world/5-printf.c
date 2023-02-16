@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - Printout string as specified in fn
- * Return : always 0
+ * main - print out string on execution
+ *
+ * Return : Always 0 (Sucess)
  */
 int main(void)
 {

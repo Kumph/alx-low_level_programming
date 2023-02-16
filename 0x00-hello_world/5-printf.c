@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints out a string to stout
- * Return : 0 if sucess
+ * return : 0 if sucess
  */
 int main(void)
 {

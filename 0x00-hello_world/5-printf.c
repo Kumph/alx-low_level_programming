@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry
- * Return : Always 0
+ * main - Prints out a string to standard output
+ * Return : 0 if execute sucessful
  */
 int main(void)
 {

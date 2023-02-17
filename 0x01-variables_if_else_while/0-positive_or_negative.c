@@ -1,6 +1,7 @@
-#include <stdio>
+#!/bin/bash
 #include <stdlib.h>
 #include <time.h>
+#include <stdio>
 /** main - entry point
  *
  * Return : always 0 (Sucess)

@@ -2,16 +2,17 @@
 #include <stdlib.h>
 
 /**
- * main - prints alphabet in lowercase
- * Return : Always 0 (sucess)
+ * main - entry point print alphabet lowercase
+ *
+ * Return: always 0 (Sucess)
  */
 int main(void)
 {
 	char M;
 
-	for (M = 'a' ; M <= 'z' ; M++);
+	for (M = 'a'; M <= 'z'; M++)
 	{
-		putchar(M);
+		putchar(M\n);
 	}
 	return (0);
 }

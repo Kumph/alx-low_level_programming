@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - entry point reverse alphabet
+ * main - entry point prit base 10 number
  *
- * Return : alwys 0 (sucess)
+ * Return: always 0 (Sucess)
  */
 int main(void)
 {
 	char H;
 
-	for (H = 'z'; H >= 'a'; H++)
+	for (H = 'z'; H = 'a'; H++)
 	{
 		putchar(H);
 	}

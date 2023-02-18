@@ -9,7 +9,7 @@ int main(void)
 {
 	char bss;
 
-	for (bss = '0'; bss < '9'; bss++)
+	for (bss = '0'; bss <= '9'; bss++)
 	{
 		putchar(bss);
 	}

@@ -2,7 +2,7 @@
 
 
 /**
- * main - check if code prints alphabet
+ * print_alphabet -prints alphabet in lc
  *
  * Return: Always 0.
  */

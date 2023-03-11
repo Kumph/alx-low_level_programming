@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-/* a program that prints its name followed by a new line*/
-
+/**main - prints program name followed by a new line
+ * @argc: count of arguments
+ * @argv: array of arguments
+ * Rturns: name of program
+ */
 int main(int argc __attribute__((unused)), char *argv[])
 {
 	printf("%s\n", *argv);

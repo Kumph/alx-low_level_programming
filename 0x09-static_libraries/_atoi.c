@@ -1,6 +1,4 @@
 #include "main.h"
-#include <bits/stdc++.h>
-using namespace std;
 
 /**
  * _atoi - not sure what this function does

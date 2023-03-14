@@ -20,10 +20,13 @@ char *_strdup(char *str)
 		len++;
 	}
 
+	if str == NULL;
+		return (NULL);
 
-	ptr = (char *)malloc(sizeof(char) * len);
 
-	if (ptr == NULL || len == 0)
+	ptr = (char *)malloc(sizeof(char) * (len + 1));
+
+	if (ptr == NULL)
 		return (NULL);
 
 	s = 0;

@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * malloc_checked - allocates memory using malloc
- * @b: length of argument
+ * *malloc_checked - allocates memory using malloc
+ * @b:bytes to allocate
  * Return: pointer to allocated memory on sucess
  * returns 98 if malloc fails and terminates normal process
  */

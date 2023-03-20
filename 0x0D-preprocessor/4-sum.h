@@ -1,7 +1,7 @@
 #ifndef SUM
-
+#define SUM
 /**
- * file SUM - sums two numbers
+ * file - 4-sum.h  sums two numbers
  * @x: first number
  * @y: second number
  */

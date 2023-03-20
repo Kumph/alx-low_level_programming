@@ -1,9 +1,6 @@
-#ifndef SUM
-#define SUM
-/**
- * file - 4-sum.h  sums two numbers
- * @x: first number
- * @y: second number
- */
+#ifndef SUM_H
+#define SUM_H
+
 #define SUM(x, y) (x + y)
+
 #endif

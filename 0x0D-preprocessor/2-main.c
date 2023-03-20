@@ -4,7 +4,8 @@
  * main - prints name of the file the program was compiled from
  * Return: name of file
  */
-void main()
+int main(void)
 {
 	printf("%s\n", __FILE__);
+	return (0);
 }

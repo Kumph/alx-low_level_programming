@@ -3,6 +3,12 @@
 
 #include <stddef.h>
 
+/**
+ * struct list - creates a list struct
+ * @str: data value of the list in this case a string
+ * @len: length of string
+ * @next: pointer to the next node
+ */
 typedef struct list
 {
 	char *str;

@@ -3,7 +3,6 @@
 
 /**
  * print_list - function that prints all elements of a list list_t
- * @list_t: list whose contents to print
  * @h: pointer to the next node in the list
  * Return: the number of nodes
  * print [0] (nil) if str is NULL

@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -7,8 +8,11 @@
 
 int get_endianess(void)
 {
-	unsigned int i = 0x01234567;
-	unsigned char *p = (unsigned char *) & i;
+	unsigned int i;
+	char *p;
+
+	i = 1;
+	p = (char *) & i;
 	
-	return (*p == 0x67);
+	return ((int)*p);
 }
